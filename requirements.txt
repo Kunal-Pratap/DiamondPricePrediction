@@ -1,0 +1,4 @@
+pandas
+setuptools
+numpy
+flask
